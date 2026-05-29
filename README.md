@@ -26,64 +26,64 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 
 ### Language
 
-!<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
-!<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/>
-!<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-!<img src="https://img.shields.io/badge/SQL-003B57"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
 ### Machine Learning
 
-!<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Statsmodels-001327"/>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-001327?style=flat-square)
 
 ### Deep Learning
 
-!<img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white"/>
-!<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
-!<img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?logo=pytorchlightning&logoColor=white"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white)
 
 ### LLM & Agent
 
-!<img src="https://img.shields.io/badge/LangChain-1C3C3C"/>
-!<img src="https://img.shields.io/badge/LangGraph-000000"/>
-!<img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=white"/>
-!<img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white"/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Data Analysis
 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0049AB"/>
-<img src="https://img.shields.io/badge/Seaborn-008CD7"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0049AB?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-008CD7?style=flat-square)
 
 ### Backend & Database
 
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Cloud & Infra
 
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Tools & Collaboration
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ### Others
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAPI-000000"/>
-<img src="https://img.shields.io/badge/Web_Crawling-000000"/>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=flat-square)
+![Web Crawling](https://img.shields.io/badge/Web_Crawling-000000?style=flat-square)
 
 
 ---
