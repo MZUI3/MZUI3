@@ -139,39 +139,62 @@ LLM 기반 표지 생성 기능을 탑재한 도서 관리 플랫폼
 
 AI 연구실 학부연구생 및 석사과정 동안 딥러닝 모델 경량화와 성능 최적화 연구를 수행했습니다.
 
-### 📄 논문 제목 1
+### 📄 ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer
 
-> 1저자 | 2024
+> 제1저자 | 2024
 
 🔗 **Paper** : [PDF](https://arxiv.org/abs/2309.01310)
+<!-- 🔗 **GitHub** : [Repository](링크입력) -->
 
-딥러닝 모델 경량화 및 성능 최적화를 주제로 진행한 연구입니다.
+MobileViT의 경량성은 유지하면서 이미지 분류 성능을 향상시키기 위한 연구를 수행했습니다.
 
-* 모델 구조 설계 및 구현
-* 성능 평가 및 실험 분석
-* 논문 작성 및 결과 정리
+기존 MobileViT는 연산량은 적지만 원본 Vision Transformer 대비 분류 성능이 낮다는 한계가 있었습니다. 이를 해결하기 위해 초기 Attention Stage의 특징 정보를 최종 분류기에 재사용하는 ExMobileViT 구조를 제안했습니다.
 
-**Tech Stack**
+#### Contributions
 
-`PyTorch` `PyTorch Lightning` `Python`
+* ExMobileViT 모델 구조 설계 및 구현
+* 초기 Attention Feature 재사용 기법 제안
+* ImageNet 기반 성능 평가 및 실험 수행
+* 논문 작성 및 결과 분석
 
----
+#### Results
 
-### 📄 논문 제목 2
-
-> 공동저자 | 2025
-
-🔗 **Paper** : [PDF](링크입력)
-
-제한된 연산 환경에서의 모델 최적화 및 추론 성능 개선 연구입니다.
-
-* 데이터 전처리 및 실험 설계
-* 모델 성능 비교 분석
-* 논문 작성 참여
+* 기존 MobileViT 대비 분류 정확도 향상
+* 약 5% 수준의 추가 파라미터만 사용
+* 모바일 환경에 적합한 경량 모델 구조 유지
 
 **Tech Stack**
 
-`PyTorch` `TensorFlow` `Python`
+`PyTorch` `PyTorch Lightning` `Vision Transformer` `Image Classification`
+
+### 📄 ResidualViT: ResNet-based Vision Transformer for Small Datasets
+
+> 공동저자 | 2023
+
+<!-- 🔗 **Paper** : [PDF](링크입력)
+🔗 **GitHub** : [Repository](링크입력) -->
+
+소규모 데이터셋 환경에서 Vision Transformer의 성능을 향상시키기 위한 연구를 수행했습니다.
+
+기존 Vision Transformer는 대규모 데이터셋에서는 우수한 성능을 보이지만, 작은 데이터셋에서는 약한 Inductive Bias로 인해 성능이 저하되는 문제가 있습니다. 이를 해결하기 위해 ResNet의 Residual Block과 Transformer를 결합한 ResidualViT 구조를 제안했습니다.
+
+#### Contributions
+
+* ResidualViT 모델 구조 설계 및 구현
+* ResNet 기반 Inductive Bias 적용
+* CIFAR-10 / CIFAR-100 기반 성능 평가
+* 실험 결과 분석 및 논문 작성 참여
+
+#### Results
+
+* CIFAR-10 Top-1 Accuracy 94.18%
+* CIFAR-100 Top-1 Accuracy 75.5%
+* Tiny-ResidualViT가 MobileViT-S 대비 우수한 성능 달성
+* 적은 파라미터 수로 성능 향상 확인
+
+**Tech Stack**
+
+`PyTorch` `Vision Transformer` `ResNet` `Image Classification`
 
 
 
