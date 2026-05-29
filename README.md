@@ -139,37 +139,40 @@ LLM 기반 표지 생성 기능을 탑재한 도서 관리 플랫폼
 
 AI 연구실 학부연구생 및 석사과정 동안 딥러닝 모델 경량화와 성능 최적화 연구를 수행했습니다.
 
-### 📄 ExMobileViT: Lightweight Vision Transformer for Edge Devices
+### 📄 논문 제목 1
 
 > 1저자 | 2024
 
-MobileViT 기반 경량 비전 모델 연구
+🔗 **Paper** : [PDF](https://arxiv.org/abs/2309.01310)
+
+딥러닝 모델 경량화 및 성능 최적화를 주제로 진행한 연구입니다.
 
 * 모델 구조 설계 및 구현
-* PyTorch 기반 학습 파이프라인 구축
-* 파라미터 수 및 연산량 최적화
-* 성능 평가 및 실험 결과 분석
+* 성능 평가 및 실험 분석
+* 논문 작성 및 결과 정리
 
 **Tech Stack**
 
-`PyTorch` `PyTorch Lightning` `Vision Transformer`
+`PyTorch` `PyTorch Lightning` `Python`
 
 ---
 
-### 📄 Deep Learning Model Optimization for Resource-Constrained Environments
+### 📄 논문 제목 2
 
 > 공동저자 | 2025
 
-제한된 연산 자원 환경에서 딥러닝 모델의 추론 효율성 향상을 위한 연구
+🔗 **Paper** : [PDF](링크입력)
 
-* 데이터 전처리 및 실험 환경 구축
-* 모델 경량화 기법 적용
-* 성능 및 연산량 비교 분석
-* 실험 결과 정리 및 논문 작성 참여
+제한된 연산 환경에서의 모델 최적화 및 추론 성능 개선 연구입니다.
+
+* 데이터 전처리 및 실험 설계
+* 모델 성능 비교 분석
+* 논문 작성 참여
 
 **Tech Stack**
 
 `PyTorch` `TensorFlow` `Python`
+
 
 
 ## 📈 GitHub Stats
