@@ -1,5 +1,151 @@
 # 📜 양경동 (Yang Kyung Dong)
 
+> AI와 데이터 분석 기술을 활용해 실제 서비스 가치를 만드는 개발자입니다.
+
+---
+
+## 🚀 About Me
+
+* 🎓 단국대학교 전자전기공학부
+* 🔬 AI 연구실 학부연구생 3년
+* 🧠 인공지능 석사과정 및 AI 연구 경험
+* ☁️ AWS 기반 백엔드 엔지니어링 학습 중
+* 🤖 LLM Agent 설계 및 AI 서비스 개발 경험
+
+AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키워가고 있는 양경동입니다.
+
+학부연구생과 석사과정 동안 인공지능 모델 경량화 및 성능 개선 연구를 수행했으며, 현재는 KT AIVLE School에서 LLM Agent와 클라우드 기반 서비스 개발을 학습하고 있습니다.
+
+문제의 원인을 분석하고 구조적으로 개선하는 것을 선호하며, 다양한 프로젝트에서 모델 성능 개선 및 효율성을 높인 경험이 있습니다.
+
+---
+
+## 🛠 Tech Stack
+
+### Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Cloud & Infra
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## 🖥️ Featured Projects
+
+### 🤖 리뷰 분석 Multi-Agent 시스템
+
+LangGraph 기반 Multi-Agent 구조를 활용하여 사용자 리뷰를 분석하고 피드백을 생성하는 AI Agent 시스템
+
+#### 주요 역할
+
+* DB 관리
+* Agent State 설계
+* Router 기반 Agent 구조 설계
+* 부정 리뷰 해결 방안 생성 Agent 구현
+
+#### 성과
+
+* Supervisor 패턴의 한계를 해결하기 위해 Router 기반 구조 설계
+* 부정 리뷰 분석 및 개선안 생성 기능 구현
+* Agent Workflow 최적화
+
+🔗 Repository
+
+* https://github.com/Jungyh0/mini_project_3
+
+---
+
+### 📚 AI 도서 관리 시스템
+
+LLM 기반 표지 생성 기능을 탑재한 도서 관리 플랫폼
+
+#### 주요 역할
+
+* 도서 등록 기능 구현
+* 알라딘 API 연동
+* DB 관리
+* AI 표지 생성 기능 개선
+
+#### 성과
+
+* 사용자 콘티 기반 프롬프트 생성 기능 구현
+* 반복 생성 횟수 감소
+* 토큰 사용량 약 90% 절감
+
+🔗 Repository
+
+* https://github.com/Jungyh0/Walking_Library
+
+---
+
+## 📚 Algorithm Study
+
+알고리즘 스터디를 직접 운영하며 학습 내용을 Notion과 GitHub에 기록하고 있습니다.
+
+### 주요 학습 주제
+
+* BFS / DFS
+* 다익스트라
+* 벨만 포드
+* 플로이드 워셜
+* DP
+* 그리디
+* MST
+* 이분 탐색
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungyh0\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungyh0\&layout=compact)
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Jungyh0
+* Email: (이메일 입력)
+* Notion: (노션 링크 입력)
+
+
 <br/>
 
 ## 👋 Intro
