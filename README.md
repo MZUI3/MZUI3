@@ -36,19 +36,19 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-001327?style=flat-square)
+<!-- ![Statsmodels](https://img.shields.io/badge/Statsmodels-001327?style=flat-square) -->
 
 ### Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### LLM & Agent
 
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Data Analysis
@@ -61,13 +61,13 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 ### Backend & Database
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<!-- ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) -->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) -->
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Cloud & Infra
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Tools & Collaboration
@@ -83,7 +83,7 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=flat-square)
-![Web Crawling](https://img.shields.io/badge/Web_Crawling-000000?style=flat-square)
+<!-- ![Web Crawling](https://img.shields.io/badge/Web_Crawling-000000?style=flat-square) -->
 
 
 ---
@@ -135,23 +135,42 @@ LLM 기반 표지 생성 기능을 탑재한 도서 관리 플랫폼
 * https://github.com/Jungyh0/Walking_Library
 
 ---
+## 🔬 Research Experience
 
-## 📚 Algorithm Study
+AI 연구실 학부연구생 및 석사과정 동안 딥러닝 모델 경량화와 성능 최적화 연구를 수행했습니다.
 
-알고리즘 스터디를 직접 운영하며 학습 내용을 Notion과 GitHub에 기록하고 있습니다.
+### 📄 ExMobileViT: Lightweight Vision Transformer for Edge Devices
 
-### 주요 학습 주제
+> 1저자 | 2024
 
-* BFS / DFS
-* 다익스트라
-* 벨만 포드
-* 플로이드 워셜
-* DP
-* 그리디
-* MST
-* 이분 탐색
+MobileViT 기반 경량 비전 모델 연구
+
+* 모델 구조 설계 및 구현
+* PyTorch 기반 학습 파이프라인 구축
+* 파라미터 수 및 연산량 최적화
+* 성능 평가 및 실험 결과 분석
+
+**Tech Stack**
+
+`PyTorch` `PyTorch Lightning` `Vision Transformer`
 
 ---
+
+### 📄 Deep Learning Model Optimization for Resource-Constrained Environments
+
+> 공동저자 | 2025
+
+제한된 연산 자원 환경에서 딥러닝 모델의 추론 효율성 향상을 위한 연구
+
+* 데이터 전처리 및 실험 환경 구축
+* 모델 경량화 기법 적용
+* 성능 및 연산량 비교 분석
+* 실험 결과 정리 및 논문 작성 참여
+
+**Tech Stack**
+
+`PyTorch` `TensorFlow` `Python`
+
 
 ## 📈 GitHub Stats
 
