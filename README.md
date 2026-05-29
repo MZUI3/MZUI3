@@ -22,8 +22,6 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 
 ## 🛠 Tech Stack
 
-# Skill Stacks
-
 ### Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
