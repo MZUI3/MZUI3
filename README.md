@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
 ### Machine Learning
