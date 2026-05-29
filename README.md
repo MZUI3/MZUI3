@@ -53,37 +53,37 @@ AI 연구 경험을 바탕으로 백엔드 및 AI 서비스 개발 역량을 키
 
 ### Data Analysis
 
-!<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Matplotlib-0049AB"/>
-!<img src="https://img.shields.io/badge/Seaborn-008CD7"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0049AB"/>
+<img src="https://img.shields.io/badge/Seaborn-008CD7"/>
 
 ### Backend & Database
 
-!<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-!<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white"/>
-!<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-!<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
 
 ### Cloud & Infra
 
-!<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 
 ### Tools & Collaboration
 
-!<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-!<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
-!<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
 
 ### Others
 
-!<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-!<img src="https://img.shields.io/badge/OpenAPI-000000"/>
-!<img src="https://img.shields.io/badge/Web_Crawling-000000"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI-000000"/>
+<img src="https://img.shields.io/badge/Web_Crawling-000000"/>
 
 
 ---
