@@ -1,23 +1,23 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=280&section=header&text=Yang%20Kyung%20Dong&fontSize=60&fontColor=ffffff"/>
+</p>
 
-# 양경동 | Research to Production AI Engineer
+<p align="center">
+  <a href="https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:mzui2033@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  AI 연구 경험을 바탕으로 모델 성능 개선부터 LLM Agent 서비스 개발까지 연결하는 AI Engineer를 목표로 하고 있습니다.
+</p>
 
-# Yang Kyung Dong
-
-AI Researcher → AI Engineer
-
-</div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59?source=copy_link)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mzui2033@gmail.com)
-
-</div>
-
-> AI 연구 경험을 바탕으로 모델 성능 개선부터 LLM Agent 서비스 개발까지 연결하는 AI Engineer를 목표로 하고 있습니다.
-
-
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2980,100:26D0CE&height=2&section=footer"/>
+</p>
 
 # About Me
 
