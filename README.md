@@ -1,204 +1,110 @@
-# 👋 안녕하세요, 양경동입니다.
+# 👋 양경동 | AI Engineer
 
-> AI 연구부터 LLM Agent 서비스 개발까지, 연구와 서비스를 연결하는 AI Engineer를 목표로 하고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=venom\&color=auto\&height=300\&section=header\&text=AI%20Engineer\&fontSize=70)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)]([노션링크](https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59?source=copy_link))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mzui2033@gmail.com)
 
 ---
 
-## 🚀 About Me
+# About Me
 
-* 🎓 단국대학교 전자전기공학부
-* 🔬 AI 연구실 학부연구생 3년
-* 🧠 인공지능 석사과정 연구 경험
-* 📄 Vision Transformer 및 Semiconductor AI 분야 논문 게재
-* 🏆 한국시험학회 최우수 논문상 수상
-* 🏭 SK Hynix · K-CHIPS 산학과제 수행
-* 🤖 LLM Agent 및 AI 서비스 개발 경험
-* ☁️ AWS · Docker 기반 클라우드 및 백엔드 학습
-
-AI 연구실에서 딥러닝 모델 경량화와 성능 최적화 연구를 수행하며 모델 설계, 실험, 논문 작성 경험을 쌓았습니다.
+AI 연구실에서 3년간 학부연구생 및 석사과정 연구원으로 활동하며 딥러닝 모델 경량화와 성능 최적화 연구를 수행했습니다.
 
 현재는 KT AIVLE School에서 LLM Agent, Backend, Cloud 기술을 학습하며 연구 경험을 실제 서비스 개발 역량으로 확장하고 있습니다.
 
-성능·효율성·확장성을 함께 고려하며 문제를 구조적으로 해결하는 개발자를 지향합니다.
+### Interests
 
----
-
-## 🎯 Current Focus
-
+* Vision Transformer
+* Model Compression
+* Efficient Deep Learning
 * Multi-Agent System
-* LLM Application Development
 * RAG Architecture
-* Backend Development
-* Cloud Infrastructure
-* MLOps
+* AI Backend & Cloud
 
 ---
 
-## 🛠 Tech Stack
+# Research Highlights
+
+### 🔬 AI Research Laboratory (2022 ~ 2024)
+
+* Vision Transformer 기반 연구 수행
+* 논문 다수 게재 (제1저자 / 공동저자)
+* TinyML 국제 경진대회 참가
+
+### 🏭 Industry & Government Projects
+
+* SK Hynix 산학과제 (2022 ~ 2024)
+* K-CHIPS 정부 과제 (2023 ~ 2025)
+
+---
+
+# Tech Stack
 
 ### AI / Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn\&logoColor=white)
 
 ### LLM & Agent
 
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square\&logo=openai\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai\&logoColor=white)
 
-### Backend
+### Backend & Cloud
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-
-### Cloud & Infra
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square\&logo=notion\&logoColor=white)---
-
-# 💼 Research Experience
-
-### AI Research Laboratory (2022 ~ 2024)
-
-**Undergraduate Researcher → Master's Research Experience**
-
-#### Research Areas
-
-- Vision Transformer
-- Lightweight Deep Learning
-- Model Compression
-- TinyML
-- Semiconductor AI
-- Anomaly Detection
-
-#### Industry & Government Projects
-
-##### SK Hynix Industry-Academic Project (2022 ~ 2024)
-
-- Wafer defect analysis and semiconductor testing research
-- Test pattern optimization and anomaly detection
-- Large-scale IC dataset analysis
-
-##### K-CHIPS Project (2023 ~ 2025)
-
-- Government-funded semiconductor AI project
-- Development of supervised data construction methods for wafer testing
-- Semiconductor testing user interface research
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
 
 ---
 
-# 🖥️ Featured Projects
+# Featured Projects
 
-## 🤖 Project 1
+| Project                     | Description                 |
+| --------------------------- | --------------------------- |
+| Multi-Agent Review Analysis | LangGraph 기반 리뷰 분석 AI Agent |
+| Project 2                   | 추가 예정                       |
+| Project 3                   | 추가 예정                       |
 
-> 프로젝트 한 줄 소개
-
-### Overview
-
-프로젝트 설명 작성
-
-### Tech Stack
-
-`Python` `FastAPI` `LangGraph`
-
-### Key Contributions
-
-* 역할 1
-* 역할 2
-* 역할 3
-
-### Results
-
-* 성과 작성
-
-### Links
-
-* GitHub :
-* Demo :
+➡️ 자세한 내용은 Portfolio(Notion) 참고
 
 ---
 
-# 🔬 Research & Publications
+# Publications
 
-> Vision Transformer, Model Compression, Efficient Deep Learning 분야를 중심으로 연구를 수행했으며, 제1저자 및 공동저자로 다수의 논문을 게재했습니다.
+| Year | Title                                                                         | Role            |
+| ---- | ----------------------------------------------------------------------------- | --------------- |
+| 2023 | ExMobileViT                                                                   | First Author    |
+| 2023 | ResidualViT                                                                   | Co-First Author |
+| 2024 | Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets | Co-First Author |
+| 2025 | Additional Publication                                                        | -               |
+| 2025 | Additional Publication                                                        | -               |
 
-| Year | Title                                                                                  | Role            | Link |
-| ---- | ---------------------------------------------------------------------------            | --------------- | ---- |
-| 2023 | ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer            | First Author    | [PDF](https://arxiv.org/abs/2309.01310)  |
-| 2023 | ResidualViT: ResNet-based Vision Transformer for Small Datasets                        | Co-First Author |    -    |
-| 2024 | Test pattern prioritization and outlier detection for large-scale IC datasets          | Co-First Author | [GITHUB](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing)  |
-
----
-
-### Research Interestsx
-
-* Vision Transformer
-* Lightweight Deep Learning
-* Model Compression
-* Efficient AI
-* Computer Vision
-* LLM Applications
+➡️ 논문 상세 내용은 Portfolio(Notion) 참고
 
 ---
 
-### Selected Publications
-#### 📄 ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer
+# Awards & Competitions
 
-* MobileViT 기반 Light-weight Classifier 경량화 및 성능 개선 연구
-* 기존 MobileViT 대비 정확도 향상
-
-**Keywords**
-`PyTorch` `PyTorch Lightning` `Vision Transformer` `MobileViT` `Image Classification`
-
-#### 📄 ResidualViT: ResNet-based Vision Transformer for Small Datasets
-
-* Light-weight 기반 Transformer 성능 일관성 향상
-* Small Dataset 환경에서 Vision Transformer 성능 개선
-
-**Keywords**
-`PyTorch` `Vision Transformer` `ResNet` `Image Classification` `Deep Learning`
-#### 📄 Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets
-* Best Paper Award, Korea Society for Testing and Evaluation
-* 대규모 IC 테스트 데이터의 이상치 탐지 및 품질 분석 연구
-* 테스트 패턴 우선순위화를 통한 효율적 검사 방법 제안
-* 데이터 기반 테스트 최적화 및 불량 검출 성능 향상
-
-**Keywords**
-`Python` `Machine Learning` `Statistical Analysis`
+* 🏆 Korea Society for Testing and Evaluation Best Paper Award
+* 🏆 ACM/IEEE TinyML Design Contest @ ICCAD (Top 15 Worldwide)
+* 🚀 JB금융그룹 Fin:AI 챌린지 (In Progress)
+* 🚀 SK텔레콤 AI 코딩 해커톤 (In Progress)
 
 ---
 
-# 🏆 Awards & Competitions
+# GitHub Activity
 
-| Year | Competition | Result |
-|------|------------|--------|
-| 2026 | JB금융그룹 Fin:AI 챌린지 | 진행 중 |
-| 2026 | SK텔레콤 AI 코딩 해커톤 | 진행 중 |
-| 2023 | 2023 ACM/IEEE TinyML Design Contest @ ICCAD | Global Rank 15 |
-| 2023 | Korea Society for Testing and Evaluation | Best Paper Award |
-
----
-
-# 📈 GitHub Stats
-<!-- ![GitHub stats](https://github-readme-stats-public.vercel.app/api?username=MZUI3&show_icons=true&theme=default&hide_border=true) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=MZUI3)
-![Top Languages](https://github-readme-stats-public.vercel.app/api/top-langs/?username=MZUI3&layout=compact&theme=default&hide_border=true)
 
 ---
 
-# 📫 Contact
+# Contact
 
+* Portfolio : Notion
 * GitHub : https://github.com/MZUI3
 * Email : [mzui2033@gmail.com](mailto:mzui2033@gmail.com)
-<!-- * Blog : -->
-<!-- * Notion : -->
