@@ -1,9 +1,15 @@
-# 👋 양경동 | AI Engineer
 
-![header](https://capsule-render.vercel.app/api?type=venom\&color=auto\&height=300\&section=header\&text=AI%20Engineer\&fontSize=70)
+# 양경동 | Research to Production AI Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)]([https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59?source=copy_link])
+![header](https://capsule-render.vercel.app/api?type=venom\&color=auto\&height=300\&section=header\&text=Research%20to%20Production%20AI\&fontSize=50)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59?source=copy_link)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mzui2033@gmail.com)
+
+</div>
+
+> AI 연구 경험을 바탕으로 모델 성능 개선부터 LLM Agent 서비스 개발까지 연결하는 AI Engineer를 목표로 하고 있습니다.
+
 
 ---
 
