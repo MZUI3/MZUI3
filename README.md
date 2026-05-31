@@ -1,7 +1,13 @@
 
 # 양경동 | Research to Production AI Engineer
 
-![header](https://capsule-render.vercel.app/api?type=venom\&color=auto\&height=300\&section=header\&text=Research%20to%20Production%20AI\&fontSize=50)
+<div align="center">
+
+# Yang Kyung Dong
+
+AI Researcher → AI Engineer
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59?source=copy_link)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mzui2033@gmail.com)
