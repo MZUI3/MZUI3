@@ -122,15 +122,42 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 ## 📄 Publications
 
-**ExMobileViT**: Lightweight Classifier Extension for Mobile Vision Transformer  
-![First Author](https://img.shields.io/badge/First%20Author-2C5364?style=flat-square&logoColor=white) ![arXiv](https://img.shields.io/badge/arXiv%20Preprint-B31B1B?style=flat-square&logo=arxiv&logoColor=white) ![Citations](https://img.shields.io/badge/Citations%204+-555555?style=flat-square)
-
-**ResidualViT**: ResNet-based Vision Transformer for Small Datasets  
-![Co-First Author](https://img.shields.io/badge/Co--First%20Author-203A43?style=flat-square) ![CKAIA](https://img.shields.io/badge/한국인공지능학회%20CKAIA-555555?style=flat-square)
-
-**Test Pattern Prioritization and Outlier Detection** for Large-Scale IC Datasets  
-![Co-First Author](https://img.shields.io/badge/Co--First%20Author-203A43?style=flat-square) ![Best Paper](https://img.shields.io/badge/🏆%20최우수%20논문상-gold?style=flat-square) ![한국시험학회](https://img.shields.io/badge/한국시험학회-555555?style=flat-square)
-
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Paper</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>2023</b></td>
+      <td>
+        <b>ExMobileViT</b>: Lightweight Classifier Extension for Mobile Vision Transformer<br/>
+        <img src="https://img.shields.io/badge/First%20Author-2C5364?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/arXiv%20Preprint-B31B1B?style=flat-square&logo=arxiv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Citations%204+-555555?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>2023</b></td>
+      <td>
+        <b>ResidualViT</b>: ResNet-based Vision Transformer for Small Datasets<br/>
+        <img src="https://img.shields.io/badge/Co--First%20Author-203A43?style=flat-square"/>
+        <img src="https://img.shields.io/badge/한국인공지능학회%20CKAIA-555555?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>2024</b></td>
+      <td>
+        <b>Test Pattern Prioritization and Outlier Detection</b> for Large-Scale IC Datasets<br/>
+        <img src="https://img.shields.io/badge/Co--First%20Author-203A43?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🏆%20최우수%20논문상-DAA520?style=flat-square"/>
+        <img src="https://img.shields.io/badge/한국시험학회-555555?style=flat-square"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ➡️ 논문 상세 내용은 [Portfolio (Notion)](https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59) 참고
 
 <br/>
