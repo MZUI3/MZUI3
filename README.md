@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.notion.so/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link">
+  <a href="https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   &nbsp;
@@ -103,11 +103,14 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 ## 📄 Publications
 
-| Year | Title | Role | Venue |
-|------|-------|------|-------|
-| 2023 | **ExMobileViT**: Lightweight Classifier Extension for Mobile Vision Transformer | **First Author** | arXiv Preprint · Citations 4+ |
-| 2023 | **ResidualViT**: ResNet-based Vision Transformer for Small Datasets | Co-First Author | 한국인공지능학회(CKAIA) 포스터 |
-| 2024 | Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets | Co-First Author | 한국시험학회 · **최우수 논문상** 🏆 |
+**2023** · **ExMobileViT**: Lightweight Classifier Extension for Mobile Vision Transformer  
+&nbsp;&nbsp;&nbsp;&nbsp;`First Author` · arXiv Preprint · Citations 4+
+
+**2023** · **ResidualViT**: ResNet-based Vision Transformer for Small Datasets  
+&nbsp;&nbsp;&nbsp;&nbsp;`Co-First Author` · 한국인공지능학회(CKAIA) 포스터
+
+**2024** · Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets  
+&nbsp;&nbsp;&nbsp;&nbsp;`Co-First Author` · 한국시험학회 · **최우수 논문상** 🏆
 
 <br/>
 
@@ -119,8 +122,6 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 |--|------|
 | 🥇 | **ACM/IEEE TinyML Design Contest @ ICCAD 2023** — Top 15 Worldwide |
 | 🥇 | **Korea Society for Testing and Evaluation** — Best Paper Award |
-| 🔄 | JB금융그룹 Fin:AI 챌린지 (진행 중) |
-| 🔄 | SK텔레콤 AI 코딩 해커톤 (진행 중) |
 
 <br/>
 
@@ -132,7 +133,7 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
   <img src="https://streak-stats.demolab.com?user=MZUI3&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MZUI3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZUI3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
