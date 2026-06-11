@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.notion.so/Research-to-Production-AI-Engineer-07f25cef32ea40b9afefdc7f1a1b9a59">
+  <a href="https://app.notion.com/p/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   &nbsp;
