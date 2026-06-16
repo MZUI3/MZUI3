@@ -136,7 +136,7 @@ Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조
 대규모 반도체 테스트 데이터 기반 이상치 탐지 및 테스트 효율 향상 연구  
 \[[GitHub](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing)\]
 
-➡️ [논문 전체 보기](https://notion.so/TODO-publications-list)
+➡️ [논문 전체 보기](https://app.notion.com/p/Paper-3817f0db48dc807986e7defe64f95607?source=copy_link)
 
 <br/>
 
