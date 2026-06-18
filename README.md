@@ -156,7 +156,7 @@ Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MZUI3&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=26D0CE&currStreakLabel=26D0CE" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MZUI3&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=26D0CE&currStreakLabel=26D0CE" />
 </p>
 
 <br/>
