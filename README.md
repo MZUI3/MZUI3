@@ -147,7 +147,7 @@ Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조
 | | |
 |---|---|
 | 🥇 **Korea Society for Testing and Evaluation** | Best Paper Award |
-| 🌏 **ACM/IEEE TinyML Design Contest @ ICCAD 2023** | Top 15 Worldwide |
+| 🌏 **ACM/IEEE TinyML Design Contest @ ICCAD 2023** | Top 11 Worldwide |
 
 <br/>
 
