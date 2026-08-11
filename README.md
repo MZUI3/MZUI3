@@ -111,8 +111,8 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 | | |
 |---|---|
-| **Tech Stack** | GAN · Face Alignment · Image Segmentation · Edge Detection |
-| **Key Contributions** | Backend 구축 · 시스템 pipeline 설계 · GAN 구현 |
+| **Tech Stack** | GAN · Face Alignment · Image Segmentation · Edge Detection · Manipulator Control |
+| **Key Contributions** | Face Detection · StyleGAN 구현 · Edge Detection |
 
 ### [Multi-Agent Review Analysis System](https://app.notion.com/p/Multi-Agent-Review-Analysis-System-2025-b6b4d72aa03549f082811effa7d6427b?source=copy_link) `2026`
 
@@ -120,8 +120,8 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 | | |
 |---|---|
-| **Tech Stack** | Python · LangGraph · FastAPI · OpenAI API |
-| **Key Contributions** | Agent State/Router 설계 · Multi-Agent 워크플로우 구현 · 부정 리뷰 대응 Agent 개발 |
+| **Tech Stack** | LangGraph · FastAPI · OpenAI API |
+| **Key Contributions** | Agent State/Router 설계 · Multi-Agent 워크플로우 구현|
 
 ### [도서 관리 시스템](https://app.notion.com/p/37d7f0db48dc80079c09fef33e9992c0?source=copy_link) `2026`
 
