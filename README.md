@@ -165,7 +165,6 @@ Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조
 
 | | |s
 |---|---|
-| 🥇 **The Institute of Semiconductor Test of Korea** | Best Paper Award |
 | 🥇 **다이나믹 공학 페스티벌**  | First Prize |
 | 🌏 **ACM/IEEE TinyML Design Contest @ ICCAD 2023**  | Top 15 Worldwide |
 
