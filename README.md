@@ -151,7 +151,7 @@ MobileViT의 경량성을 유지하면서 이미지 분류 성능을 향상시�
 Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조 제안
 
 **[Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets](https://www.notion.so/Test-Pattern-Prioritization-and-Outlier-Detection-for-Large-Scale-IC-Datasets-3997f0db48dc80b59863e25569402054?source=copy_link)** `2024`  
-`Co-First Author` &nbsp;·&nbsp; 한국반도체테스트학회 &nbsp;·&nbsp; 🏆 **최우수 논문상**  
+`Co-First Author` &nbsp;·&nbsp; 한국반도체테스트학회
 대규모 반도체 테스트 데이터 기반 이상치 탐지 및 테스트 효율 향상 연구  
 \[[GitHub](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing)\]
 
