@@ -36,11 +36,11 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
  
 ## 🔑 Key Focus
 
-| Dom`ai`n | Focus |
+| Domain | Focus |
 |--------|-------|
 | 🤖 **LLM / Agent** | LLM Applications · Agentic AI · RAG Systems · Multi-Agent |
 | 🧠 **Vision AI** | Vision Transformer · Model Compression · TinyML |
-| ⚙️ **Backend** | AI Backend Engineering · FastAPI · REST API |
+| ⚙️ **Backend** | AI Backend Engineering · FastAPI · Spring Boot · REST API |
 | ☁️ **Cloud / MLOps** | Docker · AWS · Production Deployment |
 
 <br/>
@@ -61,6 +61,7 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 #### Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -78,7 +79,6 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 ## 💼 Experience
 
 ### 🔬 AI Research Laboratory `2022 – 2025`
-<!-- > Undergraduate Researcher → M.S. Researcher -->
 
 - Vision Transformer 기반 모델 설계 및 성능 최적화 연구
 - 모델 경량화·압축 기법 실험 및 성능 분석
@@ -105,33 +105,36 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 ## 🚀 Featured Projects
 
-### [생성형 AI를 활용한 Manipulator 캐리커처 서비스](https://app.notion.com/p/AI-Manipulator-37c7f0db48dc803d8221c436ff755bbd?source=copy_link) `2023`
+### 생성형 AI를 활용한 Manipulator 캐리커처 서비스 `2023`
 
-> Vision AI 기반 Manipualtor 시스템으로 사용자의 사진을 활용하여 펜으로 종이에 직접 그려주는 시스템
+> Vision AI 기반 Manipulator 시스템으로 사용자의 사진을 활용하여 펜으로 종이에 직접 그려주는 시스템 (교내 종합설계 프로젝트, 코드 비공개)
 
 | | |
 |---|---|
 | **Tech Stack** | GAN · Face Alignment · Image Segmentation · Edge Detection · Manipulator Control |
 | **Key Contributions** | Face Detection · StyleGAN 구현 · Edge Detection |
+| **Note** | 교내 캡스톤 프로젝트로 저장소 비공개, 상세 내용은 Notion 포트폴리오 참고 |
 
-### [Multi-Agent Review Analysis System](https://app.notion.com/p/Multi-Agent-Review-Analysis-System-2025-b6b4d72aa03549f082811effa7d6427b?source=copy_link) `2026`
+### Multi-Agent Review Analysis System `2026`
 
 > LangGraph 기반 Multi-Agent 시스템으로 사용자 리뷰를 자동 분석하고 대응 전략 및 피드백을 생성하는 AI 파이프라인
 
 | | |
 |---|---|
 | **Tech Stack** | LangGraph · FastAPI · OpenAI API |
-| **Key Contributions** | Agent State/Router 설계 · Multi-Agent 워크플로우 구현|
+| **Key Contributions** | Agent State/Router 설계 · Multi-Agent 워크플로우 구현 |
+| **Repository** | *(링크 추가 예정)* |
 
-### [도서 관리 시스템](https://app.notion.com/p/37d7f0db48dc80079c09fef33e9992c0?source=copy_link) `2026`
+### 도서 관리 시스템 (Spring Boot 기반 CI/CD 자동 배포) `2026`
 
-> Spring Boot 기반 도서관리시스템을 직접 설계·개발하고, AWS EKS 환경으로 이전하여 CI/CD 자동 배포와 운영 모니터링까지 구축한 풀스택 + 인프라 프로젝트
+> AIVLE 부트캠프 팀 프로젝트(7인). Spring Boot 기반 도서관리시스템을 AWS EKS 환경에 배포하고, CodePipeline 기반 CI/CD 자동화를 구축한 프로젝트
 
 | | |
 |---|---|
-| **Tech Stack** | Spring Boot · React · AWS EKS · Docker |
-| **Key Contributions** | REST API 및 JWT 인증 구현 · EKS 기반 CI/CD 파이프라인 구축 · Auto Scaling·모니터링 체계 구축 |
-
+| **Tech Stack** | Spring Boot · React · AWS EKS · Docker · AWS CodePipeline |
+| **Key Contributions** | Spring Boot 백엔드 개발 · AWS 배포 · JWT 인증 구현 |
+| **Team** | 7인 팀 프로젝트 |
+| **Repository** | [Contributors 확인](https://github.com/junwoooooooo/aivle_miniproject_v3/graphs/contributors) (본인 계정 MZUI3, 19 commits) |
 
 ➡️ [프로젝트 전체 보기](https://app.notion.com/p/Projects-3727f0db48dc807eae9cea3edd34f881?source=copy_link)
 
@@ -139,7 +142,7 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 ---
 
-## 📄 [Publications](https://www.notion.so/Paper-3817f0db48dc807986e7defe64f95607?source=copy_link)
+## 📄 Publications
 
 **[ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer](https://www.notion.so/ExMobileViT-Lightweight-Classifier-Extension-for-Mobile-Vision-Transformer-3997f0db48dc80afad07d3046b15851d?source=copy_link)** `2023`  
 `First Author` &nbsp;·&nbsp; arXiv Preprint &nbsp;·&nbsp; Citations 4+
