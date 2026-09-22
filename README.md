@@ -107,7 +107,7 @@ AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량�
 
 ### [생성형 AI를 활용한 Manipulator 캐리커처 서비스](https://app.notion.com/p/AI-Manipulator-37c7f0db48dc803d8221c436ff755bbd?source=copy_link) `2023`
 
-> Vision AI 기반 Manipualtor 시스템으로 사용자의 사진을 활용하여 펜으로 종이에 직접 그려주는 시스템
+> Vision AI 기반 Manipulator 시스템으로 사용자의 사진을 활용하여 펜으로 종이에 직접 그려주는 시스템
 
 | | |
 |---|---|
