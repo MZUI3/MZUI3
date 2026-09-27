@@ -6,7 +6,6 @@
   <a href="https://app.notion.com/p/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:mzui2033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MZUI3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://arxiv.org/abs/2309.01310"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
 </p>
 
 <h3 align="center">연구로 문제를 정의하고, 산업 데이터로 검증하고, 동작하는 서비스로 만듭니다.</h3>
