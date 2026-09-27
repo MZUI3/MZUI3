@@ -1,187 +1,133 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yang%20Kyung%20Dong&fontSize=58&fontColor=ffffff&desc=Research%20to%20Production%20AI%20Engineer&descSize=18&descAlignY=72&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Yang%20Kyung%20Dong&fontSize=48&fontColor=ffffff&desc=AI%20Research%20Engineer%20%C2%B7%20Research%20to%20Product&descSize=16&descAlignY=75&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mzui2033@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MZUI3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://app.notion.com/p/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="mailto:mzui2033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MZUI3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2309.01310"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
 </p>
 
-<br/>
+<h3 align="center">연구로 문제를 정의하고, 산업 데이터로 검증하고, 동작하는 서비스로 만듭니다.</h3>
+
+<div align="center">
+
+| 🔬 연구 3년 | 🏭 SK Hynix 산학과제 | 📄 1저자 논문 | 🏆 최우수상 · 세계 Top 11 |
+|:---:|:---:|:---:|:---:|
+| Vision Transformer<br/>설계·경량화 | 웨이퍼 테스트 데이터<br/>이상치 탐지 | ExMobileViT<br/>(arXiv) 외 2편 | 공학 페스티벌<br/>TinyML @ ICCAD 2023 |
+
+</div>
 
 ---
 
-## 👤 About Me
+## ⚡ 30초 요약
 
-> **연구로 문제를 정의하고, 산업 데이터로 검증하며, 실제 서비스로 구현하는 AI Engineer**
-
-AI 연구실에서 **3년간** Vision Transformer 기반 모델 설계·경량화 연구를 수행했으며,  
-**SK Hynix 산학과제**와 **K-CHIPS 정부과제**를 통해 반도체 공정의 대규모 데이터 분석 및 AI 자동화 연구를 경험했습니다.
-
-현재는 LLM Agent · Backend · Cloud/MLOps 역량을 확장하며,  
-연구 성과를 실제 서비스와 제품으로 연결하는 엔지니어링에 집중하고 있습니다.
-
-<br/>
-
----
- 
-## 🔑 Key Focus
-
-| Dom`ai`n | Focus |
-|--------|-------|
-| 🤖 **LLM / Agent** | LLM Applications · Agentic AI · RAG Systems · Multi-Agent |
-| 🧠 **Vision AI** | Vision Transformer · Model Compression · TinyML |
-| ⚙️ **Backend** | AI Backend Engineering · FastAPI · REST API |
-| ☁️ **Cloud / MLOps** | Docker · AWS · Production Deployment |
-
-<br/>
-
----
-
-## 🛠 Tech Stack
-
-#### AI / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-#### LLM & Agent
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
-#### Backend & Cloud
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-4E9A06?style=flat-square)
-
-<br/>
+| | 한 줄 요약 | 대표 근거 |
+|---|---|---|
+| 🧠 **AI R&D** | 모델 구조 설계 → 실험 → 논문화까지 연구 전 과정을 수행 | ExMobileViT `1저자` · ResidualViT · TinyML Top 11 |
+| 🏭 **AIX** | 반도체 현업 데이터에서 문제를 정의하고 AI로 분석·자동화 | SK Hynix 이상치 탐지 `공동 1저자` · K-CHIPS 데이터셋 구축 |
+| 🚀 **AI Service** | 모델을 실제 장치·서비스로 구현하고 배포·운영 | 캐리커처 로봇 `최우수상` · Multi-Agent · AWS EKS |
 
 ---
 
 ## 💼 Experience
 
-### 🔬 AI Research Laboratory `2022 – 2025`
-<!-- > Undergraduate Researcher → M.S. Researcher -->
-
-- Vision Transformer 기반 모델 설계 및 성능 최적화 연구
-- 모델 경량화·압축 기법 실험 및 성능 분석
-- 재현 가능한 학습·실험 파이프라인 구축
-- 논문 작성 및 학회 발표
-
----
-
-### 🏭 Industry & Government Projects
-
-**SK Hynix 산학과제** `2022 – 2024`
-- 웨이퍼 테스트 데이터 분석 및 불량 패턴 탐지 연구
-- 대규모 IC Dataset 기반 이상치 탐지 및 품질 이슈 분석
-- 테스트 패턴 최적화를 위한 데이터 기반 분석 수행
-
-**K-CHIPS 정부과제** `2023 – 2025`
-- 반도체 테스트 AI 데이터셋 구축 및 품질 관리
-- Paper Test 데이터 수집·정제 및 라벨링
-- 반도체 테스트 UI 분석 및 데이터 플랫폼 구축 지원
-
-<br/>
+| 기간 | 소속 · 과제 | 한 일 | 성과 |
+|---|---|---|---|
+| `2022 – 2024` | **SK Hynix 산학과제** | 대규모 IC 웨이퍼 테스트 데이터의 불량 패턴·이상치 탐지, 테스트 패턴 우선순위화 | 공동 1저자 논문 (한국반도체테스트학회) |
+| `2023 – 2025` | **K-CHIPS 정부과제** | 반도체 테스트 AI 데이터셋 수집·정제·라벨링, 데이터 플랫폼 구축 지원 | 데이터 품질 관리 체계 구축 |
+| `2022 – 2025.02` | **AI Research Lab** | MobileViT 등 경량 ViT 구조 개선·모델 압축, 재현 가능한 실험 파이프라인 구축 | 논문 3편 · 학회 발표 |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [생성형 AI를 활용한 Manipulator 캐리커처 서비스](https://app.notion.com/p/AI-Manipulator-37c7f0db48dc803d8221c436ff755bbd?source=copy_link) `2023`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> Vision AI 기반 Manipualtor 시스템으로 사용자의 사진을 활용하여 펜으로 종이에 직접 그려주는 시스템
+### 🥇 [캐리커처 로봇](https://app.notion.com/p/AI-Manipulator-37c7f0db48dc803d8221c436ff755bbd?source=copy_link)
+`2023` · **최우수상**
 
-| | |
-|---|---|
-| **Tech Stack** | GAN · Face Alignment · Image Segmentation · Edge Detection · Manipulator Control |
-| **Key Contributions** | Face Detection · StyleGAN 구현 · Edge Detection |
+사진 한 장 → 로봇팔이 펜으로 캐리커처를 그리는 End-to-End 시스템
 
-### [Multi-Agent Review Analysis System](https://app.notion.com/p/Multi-Agent-Review-Analysis-System-2025-b6b4d72aa03549f082811effa7d6427b?source=copy_link) `2026`
+**담당** Face Detection · StyleGAN · Edge Detection<br/>
+**Tech** GAN · Segmentation · G-Code
 
-> LangGraph 기반 Multi-Agent 시스템으로 사용자 리뷰를 자동 분석하고 대응 전략 및 피드백을 생성하는 AI 파이프라인
+</td>
+<td width="33%" valign="top">
 
-| | |
-|---|---|
-| **Tech Stack** | LangGraph · FastAPI · OpenAI API |
-| **Key Contributions** | Agent State/Router 설계 · Multi-Agent 워크플로우 구현|
+### 🤖 [Multi-Agent 리뷰 분석](https://app.notion.com/p/Multi-Agent-Review-Analysis-System-2025-b6b4d72aa03549f082811effa7d6427b?source=copy_link)
+`2026`
 
-### [도서 관리 시스템](https://app.notion.com/p/37d7f0db48dc80079c09fef33e9992c0?source=copy_link) `2026`
+고객 리뷰를 분석해 대응 전략·피드백까지 자동 생성
 
-> Spring Boot 기반 도서관리시스템을 직접 설계·개발하고, AWS EKS 환경으로 이전하여 CI/CD 자동 배포와 운영 모니터링까지 구축한 풀스택 + 인프라 프로젝트
+**담당** Agent State · Router 설계, 워크플로우 구현<br/>
+**Tech** LangGraph · FastAPI · OpenAI API
 
-| | |
-|---|---|
-| **Tech Stack** | Spring Boot · React · AWS EKS · Docker |
-| **Key Contributions** | REST API 및 JWT 인증 구현 · EKS 기반 CI/CD 파이프라인 구축 · Auto Scaling·모니터링 체계 구축 |
+</td>
+<td width="33%" valign="top">
 
+### ☁️ [도서 관리 시스템](https://app.notion.com/p/37d7f0db48dc80079c09fef33e9992c0?source=copy_link)
+`2026`
+
+Spring Boot 서비스를 설계·개발하고 AWS EKS로 이전해 운영까지
+
+**담당** REST API · JWT · CI/CD · Auto Scaling · 모니터링<br/>
+**Tech** Spring Boot · React · Docker · EKS
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+  A["📷 사진"] --> B["얼굴 검출·정렬"] --> C["배경 분리"] --> D["StyleGAN 캐리커처"] --> E["Edge Detection"] --> F["SVG → G-Code"] --> G["🦾 로봇팔 드로잉"]
+```
 
 ➡️ [프로젝트 전체 보기](https://app.notion.com/p/Projects-3727f0db48dc807eae9cea3edd34f881?source=copy_link)
-
-<br/>
 
 ---
 
 ## 📄 [Publications](https://www.notion.so/Paper-3817f0db48dc807986e7defe64f95607?source=copy_link)
 
-**[ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer](https://www.notion.so/ExMobileViT-Lightweight-Classifier-Extension-for-Mobile-Vision-Transformer-3997f0db48dc80afad07d3046b15851d?source=copy_link)** `2023`  
-`First Author` &nbsp;·&nbsp; arXiv Preprint &nbsp;·&nbsp; Citations 4+
-MobileViT의 경량성을 유지하면서 이미지 분류 성능을 향상시키는 확장 구조 제안  
-\[[GitHub](https://github.com/BMUZI3/ExMobileVIT)\] &nbsp;\[[Paper](https://arxiv.org/abs/2309.01310)\]
-
-**[ResidualViT: ResNet-based Vision Transformer for Small Datasets](https://www.notion.so/ResidualViT-ResNet-based-Vision-Transformer-for-Small-Datasets-3997f0db48dc80e6bb52ce1269641a7a?source=copy_link)** `2023`  
-`Co-First Author` &nbsp;·&nbsp; 한국인공지능학회(CKAIA) 포스터 발표  
-Small Dataset 환경에서 ViT 일반화 성능 개선을 위한 Residual 구조 제안
-
-**[Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets](https://www.notion.so/Test-Pattern-Prioritization-and-Outlier-Detection-for-Large-Scale-IC-Datasets-3997f0db48dc80b59863e25569402054?source=copy_link)** `2024`  
-`Co-First Author` &nbsp;·&nbsp; 한국반도체테스트학회
-대규모 반도체 테스트 데이터 기반 이상치 탐지 및 테스트 효율 향상 연구  
-\[[GitHub](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing)\]
-
-➡️ [논문 전체 보기](https://app.notion.com/p/Paper-3817f0db48dc807986e7defe64f95607?source=copy_link)
-
-<br/>
+| 연도 | 논문 | 역할 | 핵심 | 링크 |
+|:---:|---|:---:|---|:---:|
+| 2023 | **ExMobileViT**: Lightweight Classifier Extension for Mobile Vision Transformer | 1저자 | 추가 파라미터 약 5%로 ImageNet에서 MobileViT 대비 정확도 향상 | [Paper](https://arxiv.org/abs/2309.01310) · [Code](https://github.com/BMUZI3/ExMobileVIT) |
+| 2024 | Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets | 공동 1저자 | SK Hynix 테스트 데이터 기반 이상치 탐지·테스트 효율화 | [Code](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing) |
+| 2023 | **ResidualViT**: ResNet-based Vision Transformer for Small Datasets | 공동 1저자 | Small Dataset에서 ViT 일반화 성능 개선 (CKAIA 포스터) | [Notion](https://www.notion.so/ResidualViT-ResNet-based-Vision-Transformer-for-Small-Datasets-3997f0db48dc80e6bb52ce1269641a7a?source=copy_link) |
 
 ---
 
-## 🏆 Awards & Competitions
+## 🏆 Awards & Rankings
+
+| 결과 | 대회 | 내용 |
+|:---:|---|---|
+| 🥇 **최우수상** | 다이나믹 공학 페스티벌 | 생성형 AI 기반 캐리커처 로봇 |
+| 🌏 **Top 11 Worldwide** | ACM/IEEE TinyML Design Contest @ ICCAD 2023 | MCU 온디바이스 AI 모델 설계 |
+
+---
+
+## 🛠 Tech Stack
 
 | | |
 |---|---|
-| 🥇 **다이나믹 공학 페스티벌**  | First Prize |
-| 🌏 **ACM/IEEE TinyML Design Contest @ ICCAD 2023**  | Top 11 Worldwide |
-
-<br/>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MZUI3&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=26D0CE&currStreakLabel=26D0CE" />
-</p>
-
-<br/>
+| **주력** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **LLM / Backend** | ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **사용 경험** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-4E9A06?style=flat-square) |
 
 ---
 
+## 🎓 Education
+
+| 기간 | 과정 |
+|---|---|
+| `2026.07 – 2027.06` | **SSAFY 16기** · 서울 캠퍼스 (교육 중) |
+| `2026.03 – 2026.07` | **KT AIVLE School 9기** · AI 트랙 |
+| `2018.03 - 2024.02` | **전자공학 학사** 졸업 |
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
 </p>
