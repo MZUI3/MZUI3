@@ -100,12 +100,13 @@ Spring Boot 서비스를 설계·개발하고 AWS EKS로 이전해 운영
 
 ## Tech Stack
 
-| 구분 | 기술 |
+| 분야 | 기술 |
 |---|---|
-| **주력** | Python, PyTorch, Hugging Face, scikit-learn |
-| **LLM · Backend** | LangGraph, LangChain, FastAPI, Spring Boot, React |
+| **AI · ML** | PyTorch, TensorFlow, Hugging Face, scikit-learn |
+| **LLM · Agent** | LangGraph, LangChain, OpenAI API |
+| **Backend · Frontend** | FastAPI, Spring Boot, React |
 | **Infra** | Docker, Kubernetes (EKS), AWS |
-| **사용 경험** | TensorFlow, Java, C++, Verilog |
+| **Language** | Python, Java, C++, Verilog |
 
 ---
 
