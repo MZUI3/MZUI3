@@ -106,7 +106,7 @@ Spring Boot 서비스를 설계·개발하고 AWS EKS로 이전해 운영
 | **LLM · Agent** | LangGraph, LangChain, OpenAI API |
 | **Backend · Frontend** | FastAPI, Spring Boot, React |
 | **Infra** | Docker, Kubernetes (EKS), AWS |
-| **Language** | Python, Java, C++, Verilog |
+| **Language** | Python, Java, C, C++, Verilog |
 
 ---
 
