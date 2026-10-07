@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://mzui3.notion.site/AI-555b32aeb4c24c189c211ddb6d7ffc1c?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:mzui2033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MZUI3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
