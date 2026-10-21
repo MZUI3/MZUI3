@@ -38,12 +38,12 @@
 
 | 프로젝트 | 내용 |
 |---|---|
-| **[TinyML&nbsp;Design&nbsp;Contest](https://app.notion.com/p/1c7ccb42fc1c452281959d52db412a87?source=copy_link)**<br/>2023 | STM32(RAM 16KB · Flash 64KB)에서 심실 부정맥을 탐지하는 1D CNN · 세계 Top 11<br/>**담당** 1D CNN 설계, Knowledge Distillation, C 포팅<br/>**Stack** PyTorch, C, STM32 · [Code](https://github.com/MZUI3/iccad2023-tinyml-ecg-anomaly-detection) |
-| **[캐리커처&nbsp;로봇](https://app.notion.com/p/AI-Manipulator-37c7f0db48dc803d8221c436ff755bbd?source=copy_link)**<br/>2023 | 사진 한 장으로 로봇팔이 캐리커처를 그리는 End-to-End 시스템<br/>**담당** Face Detection, StyleGAN, Edge Detection<br/>**Stack** GAN, Segmentation, G-Code |
-| **[Multi-Agent&nbsp;리뷰&nbsp;분석](https://app.notion.com/p/b6b4d72aa03549f082811effa7d6427b?source=copy_link)**<br/>2026 | 상품 리뷰를 속성별로 분석(ABSA)하는 Supervisor 패턴 Multi-Agent 시스템 (9인 팀)<br/>**담당** Agent State·Supervisor 라우팅 설계, Multi-Agent 구조 구현<br/>**Stack** LangGraph, OpenAI API, LangSmith, Streamlit |
-| **[도서&nbsp;관리&nbsp;시스템](https://app.notion.com/p/37d7f0db48dc80079c09fef33e9992c0?source=copy_link)**<br/>2026 | AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (7인 팀)<br/>**담당** Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/>**Stack** Spring Boot, React, Docker, EKS |
+| **[TinyML&nbsp;Design&nbsp;Contest](https://mzui3.notion.site/TinyML-Design-Contest-ICCAD-2023-1c7ccb42fc1c452281959d52db412a87)**<br/>2023 | STM32(RAM 16KB · Flash 64KB)에서 심실 부정맥을 탐지하는 1D CNN · 세계 Top 11<br/>**담당** 1D CNN 설계, Knowledge Distillation, C 포팅<br/>**Stack** PyTorch, C, STM32 · [Code](https://github.com/MZUI3/iccad2023-tinyml-ecg-anomaly-detection) |
+| **[캐리커처&nbsp;로봇](https://mzui3.notion.site/AI-37c7f0db48dc803d8221c436ff755bbd)**<br/>2023 | 사진 한 장으로 로봇팔이 캐리커처를 그리는 End-to-End 시스템<br/>**담당** Face Detection, StyleGAN, Edge Detection<br/>**Stack** GAN, Segmentation, G-Code |
+| **[Multi-Agent&nbsp;리뷰&nbsp;분석](https://mzui3.notion.site/Multi-Agent-Review-Analysis-System-b6b4d72aa03549f082811effa7d6427b)**<br/>2026 | 상품 리뷰를 속성별로 분석(ABSA)하는 Supervisor 패턴 Multi-Agent 시스템 (9인 팀)<br/>**담당** Agent State·Supervisor 라우팅 설계, Multi-Agent 구조 구현<br/>**Stack** LangGraph, OpenAI API, LangSmith, Streamlit |
+| **[도서&nbsp;관리&nbsp;시스템](https://mzui3.notion.site/37d7f0db48dc80079c09fef33e9992c0)**<br/>2026 | AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (7인 팀)<br/>**담당** Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/>**Stack** Spring Boot, React, Docker, EKS |
 
-[프로젝트 전체 보기 →](https://app.notion.com/p/Projects-3727f0db48dc807eae9cea3edd34f881?source=copy_link)
+[프로젝트 전체 보기 →](https://mzui3.notion.site/Projects-3727f0db48dc807eae9cea3edd34f881)
 
 ---
 
@@ -53,9 +53,9 @@
 |:---:|---|:---:|
 | 2024 | Test Pattern Prioritization and Outlier Detection for Large-Scale IC Datasets<br/>KTC 2024 (한국테스트학술대회) · 공동 1저자 · K-CHIPS 과제 | [Code](https://github.com/BMUZI3/Synthetic-Dataset-for-Adaptive-Testing) |
 | 2023 | ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer<br/>arXiv preprint · 1저자 | [Paper](https://arxiv.org/abs/2309.01310)&nbsp;·&nbsp;[Code](https://github.com/BMUZI3/ExMobileVIT) |
-| 2023 | ResidualViT: Better general-purpose Vision Transformer combined with CNN<br/>CKAIA 2023 (한국인공지능학회 하계학술대회) Poster · 공동 1저자 | [Notion](https://www.notion.so/3997f0db48dc80e6bb52ce1269641a7a?source=copy_link) |
+| 2023 | ResidualViT: Better general-purpose Vision Transformer combined with CNN<br/>CKAIA 2023 (한국인공지능학회 하계학술대회) Poster · 공동 1저자 | [Notion](https://mzui3.notion.site/ResidualViT-Better-general-purpose-Vision-Transformer-combined-with-CNN-3997f0db48dc80e6bb52ce1269641a7a) |
 
-[논문 상세 보기 →](https://www.notion.so/Paper-3817f0db48dc807986e7defe64f95607?source=copy_link)
+[논문 상세 보기 →](https://mzui3.notion.site/Paper-3817f0db48dc807986e7defe64f95607)
 
 ---
 
@@ -74,7 +74,7 @@
 |:---:|:---:|---|
 | 2023 | **Top&nbsp;11** | TinyML Design Contest (ACM/IEEE ICCAD 국제 대회)<br/>STM32 MCU용 심실 부정맥 탐지 모델 · F-beta 0.947 |
 | 2023 | **최우수상** | 다이나믹 공학 페스티벌<br/>생성형 AI 기반 캐리커처 로봇 |
-| 2023 | **8위** | [노트북으로 GPT 맛보기 대회](https://app.notion.com/p/b485a842e8cf4d6f82601a8a44924b3c?source=copy_link) · 한국어 문서 생성 요약 부문 (마인즈앤컴퍼니 · 4인 팀)<br/>KoGPT LoRA·T5 등 요약 모델을 비교해 T5로 제출 · 요약 성능 점수 5위 |
+| 2023 | **8위** | [노트북으로 GPT 맛보기 대회](https://mzui3.notion.site/GPT-2023-b485a842e8cf4d6f82601a8a44924b3c) · 한국어 문서 생성 요약 부문 (마인즈앤컴퍼니 · 4인 팀)<br/>KoGPT LoRA·T5 등 요약 모델을 비교해 T5로 제출 · 요약 성능 점수 5위 |
 
 ---
 
