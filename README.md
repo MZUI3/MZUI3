@@ -30,7 +30,7 @@
 | 2023.07&nbsp;–&nbsp;2025.02 | **K-CHIPS**<br/>정부과제 | 반도체 테스트 AI 데이터셋 수집·정제·라벨링, 데이터 플랫폼 구축 지원<br/>ISCAS'85 회로 11종 × 불량 분포 10종, 웨이퍼 110장(회로 110K개) 규모 테스트 데이터셋 구축 및 공개<br/>**성과** 데이터 품질 관리 체계 구축 · 공동 1저자 논문 · 특허 등록 (10-2937390) |
 | 2022.07&nbsp;–&nbsp;2025.02 | **AI&nbsp;Research&nbsp;Lab**<br/>학부연구생 → 연구원 | 경량 ViT 구조 개선 및 모델 압축, 재현 가능한 실험 파이프라인 구축<br/>**성과** 파라미터 5% 증가로 정확도 최대 0.68%p 향상 (ExMobileViT) · 논문 2편 |
 | 2022.12&nbsp;–&nbsp;2024.11 | **SK&nbsp;Hynix**<br/>산학과제 · 참여연구원 | 웨이퍼 테스트 데이터 기반 불량 패턴·이상치 탐지 과제 참여 |
-| 2023.08 | **슈퍼노바**<br/>로봇 제조사 · 현장실습 | HUENIT 4축 로봇팔 조립, 카메라·NPU AI 모듈로 인식 결과에 따른 로봇 동작 설계·검증<br/>**연계** 같은 로봇팔로 캐리커처 로봇 제작 (최우수상) |
+| 2023.08 | **슈퍼노바**<br/>로봇 제조사 · 현장실습 | HUENIT 4축 Manipulator 조립, 카메라·NPU AI 모듈로 인식 결과에 따른 로봇 동작 설계·검증<br/>**연계** 같은 Manipulator로 캐리커처 로봇 제작 (최우수상) |
 
 ---
 
@@ -39,7 +39,7 @@
 | 프로젝트 | 내용 |
 |---|---|
 | **[TinyML&nbsp;Design&nbsp;Contest](https://mzui3.notion.site/TinyML-Design-Contest-ICCAD-2023-1c7ccb42fc1c452281959d52db412a87)**<br/>2023 | STM32(RAM 16KB · Flash 64KB)에서 심실 부정맥을 탐지하는 1D CNN · 세계 Top 11<br/>**담당** 1D CNN 설계, Knowledge Distillation, C 포팅<br/>**Stack** PyTorch, C, STM32 · [Code](https://github.com/MZUI3/iccad2023-tinyml-ecg-anomaly-detection) |
-| **[캐리커처&nbsp;로봇](https://mzui3.notion.site/AI-37c7f0db48dc803d8221c436ff755bbd)**<br/>2023 | 사진 한 장으로 로봇팔이 캐리커처를 그리는 End-to-End 시스템<br/>**담당** Face Detection, StyleGAN, Edge Detection<br/>**Stack** GAN, Segmentation, G-Code |
+| **[캐리커처&nbsp;로봇](https://mzui3.notion.site/AI-37c7f0db48dc803d8221c436ff755bbd)**<br/>2023 | 사진 한 장으로 Manipulator가 캐리커처를 그리는 End-to-End 시스템<br/>**담당** Face Detection, StyleGAN, Edge Detection<br/>**Stack** GAN, Segmentation, G-Code |
 | **[Multi-Agent&nbsp;리뷰&nbsp;분석](https://mzui3.notion.site/Multi-Agent-Review-Analysis-System-b6b4d72aa03549f082811effa7d6427b)**<br/>2026 | 상품 리뷰를 속성별로 분석(ABSA)하는 Supervisor 패턴 Multi-Agent 시스템 (9인 팀)<br/>**담당** Agent State·Supervisor 라우팅 설계, Multi-Agent 구조 구현<br/>**Stack** LangGraph, OpenAI API, LangSmith, Streamlit |
 | **[도서&nbsp;관리&nbsp;시스템](https://mzui3.notion.site/37d7f0db48dc80079c09fef33e9992c0)**<br/>2026 | AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (7인 팀)<br/>**담당** Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/>**Stack** Spring Boot, React, Docker, EKS |
 
