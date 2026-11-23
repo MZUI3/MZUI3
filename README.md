@@ -17,9 +17,10 @@
 <table>
   <tr><th width="200">분야</th><th width="430">역량</th><th width="370">근거</th></tr>
   <tr><td><b>AI&nbsp;R&D</b></td><td>경량 모델 구조 설계부터 실험·논문화까지 연구 전 과정 수행</td><td>ExMobileViT (1저자)<br/>ResidualViT (공동 1저자)</td></tr>
-  <tr><td><b>On-Device&nbsp;AI</b></td><td>메모리가 작은 MCU에 맞춘 모델 설계와 C 포팅</td><td>TinyML Design Contest Top 11<br/>STM32 (RAM 16KB) · Latency 12.76ms · Flash 26.63KB</td></tr>
+  <tr><td><b>On-Device&nbsp;AI</b></td><td>메모리가 작은 MCU에 맞춘 모델 설계와 C 포팅</td><td>TinyML Design Contest Top 11<br/>STM32 (RAM 16KB) · Latency 12.76ms · Flash 26.63KB<br/>압축 기법 48종 CPU 실측 (Multi-Tool4Compression)</td></tr>
   <tr><td><b>AIX</b></td><td>반도체 현업 데이터에서 문제를 정의하고 AI로 분석·자동화</td><td>SK Hynix 산학과제<br/>K-CHIPS 데이터셋 구축 (공동 1저자 · 특허 등록)</td></tr>
-  <tr><td><b>AI&nbsp;Service</b></td><td>모델을 실제 장치와 서비스로 구현하고 배포</td><td>캐리커처 로봇 (최우수상 · 특허 출원)<br/>Multi-Agent 리뷰 분석<br/>AWS EKS 배포 도서 관리 서비스 (팀)</td></tr>
+  <tr><td><b>AI&nbsp;Service</b></td><td>모델을 실제 장치와 서비스로 구현하고 배포</td><td>캐리커처 로봇 (최우수상 · 특허 출원)<br/>Multi-Agent 리뷰 분석 · Patent Lab RAG<br/>AWS EKS 배포 도서 관리 서비스 (팀)</td></tr>
+  <tr><td><b>Robotics&nbsp;·&nbsp;RL</b></td><td>로봇 시뮬레이션에서 정책과 플래너를 학습하고 closed-loop로 검증</td><td>MuJoCo 학습형 궤적 플래너 (성공률 99.7%)<br/>vla-lite (SmolVLA 지연 분석 · 진행 중)</td></tr>
 </table>
 
 ---
@@ -44,6 +45,19 @@
   <tr><td><b><a href="https://mzui3.notion.site/AI-37c7f0db48dc803d8221c436ff755bbd">캐리커처&nbsp;로봇</a></b><br/>2023</td><td>사진 한 장으로 Manipulator가 캐리커처를 그리는 End-to-End 시스템<br/><b>담당</b> Face Detection, StyleGAN, Edge Detection<br/><b>Stack</b> GAN, Segmentation, G-Code</td></tr>
   <tr><td><b><a href="https://mzui3.notion.site/Multi-Agent-Review-Analysis-System-b6b4d72aa03549f082811effa7d6427b">Multi-Agent&nbsp;리뷰&nbsp;분석</a></b><br/>2026</td><td>상품 리뷰를 속성별로 분석(ABSA)하는 Supervisor 패턴 Multi-Agent 시스템 (9인 팀)<br/><b>담당</b> Agent State·Supervisor 라우팅 설계, Multi-Agent 구조 구현<br/><b>Stack</b> LangGraph, OpenAI API, LangSmith, Streamlit</td></tr>
   <tr><td><b><a href="https://mzui3.notion.site/37d7f0db48dc80079c09fef33e9992c0">도서&nbsp;관리&nbsp;시스템</a></b><br/>2026</td><td>AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (7인 팀)<br/><b>담당</b> Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/><b>Stack</b> Spring Boot, React, Docker, EKS</td></tr>
+</table>
+
+## More Projects
+
+<table>
+  <tr><th width="200">프로젝트</th><th width="800">내용</th></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc81b08054c32560574fc3">Patent&nbsp;Lab</a></b><br/>2026</td><td>아이디어를 구성요소로 나눠 한국 특허 10,284건의 청구항과 대비하는 선행기술 조사 RAG<br/><b>결과</b> 판정 근거를 원문 구절로 코드 검증 · Recall@20 88% · 인젝션 공격 성공 8/12 → 0/12<br/><b>Stack</b> LangGraph, Chroma, bge-m3, Gemini, Streamlit · <a href="https://github.com/MZUI3/patent-lab">Code</a></td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc81b5bb26f734f60eb313">R&amp;D&nbsp;공고&nbsp;플래너</a></b><br/>2026</td><td>정부 R&amp;D 공고의 자격을 공고 원문 구절로 검증하고 준비 일정을 영업일로 역산하는 LangGraph Agent<br/><b>결과</b> 거짓 적격 판정률 3.74% → 1.87% · pytest 111개<br/><b>Stack</b> LangGraph, FastAPI, SQLite, Vue 3</td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc81c2a120f8ee4a2ccdf5">Multi-Tool4Compression</a></b><br/>2026</td><td>Pruning·Quantization 48종을 같은 조건으로 적용해 정확도·용량·MACs·CPU 지연을 실측하는 툴킷<br/><b>결과</b> ResNet18 지연 4.99ms → 0.60ms (8.3배, 정확도 −1.4%p) · 함수형 라이브러리 compresskit<br/><b>Stack</b> PyTorch, ONNX Runtime · <a href="https://github.com/MZUI3/Multi-Tool4Compression">Code</a>&nbsp;·&nbsp;<a href="https://github.com/MZUI3/compresskit">compresskit</a></td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc8189b736f52e645dc46f">MuJoCo&nbsp;Manipulator</a></b><br/>2026</td><td>직접 모델링한 4자유도 로봇팔의 RL 과제 11종 벤치마크와 자기지도 학습 충돌 회피 궤적 플래너<br/><b>결과</b> 장애물 회피 성공률 99.7% · 궤적 최적화(7,253ms)보다 약 70배 빠른 101ms<br/><b>Stack</b> MuJoCo, Gymnasium, Stable-Baselines3, PyTorch · <a href="https://github.com/MZUI3/.mujoco">Code</a></td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc8110abd3d46c316afa82">vla-lite</a></b><br/>2026&nbsp;–&nbsp;진행&nbsp;중</td><td>SmolVLA를 LIBERO에서 closed-loop로 평가해 성공률과 제어 주기를 함께 지키는 경량화를 찾는 연구<br/><b>결과</b> 재현 가능한 평가 하네스·프로파일러 구현 · 추론 1회 461ms 중 79%가 action expert<br/><b>Stack</b> LeRobot, LIBERO, MuJoCo, PyTorch</td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc81fbafcbe16608450b5a">북문&nbsp;너머</a></b><br/>2026</td><td>LLM은 발화 분류와 대사만 맡고, 관계·소문·표결·결말은 코드 규칙이 정하는 NPC 관계 시스템과 웹 게임<br/><b>결과</b> 조작 시도 발화는 변화량 0 · 무인 시뮬레이션으로 규칙 쏠림을 찾아 수정 · 테스트 207개<br/><b>Stack</b> TypeScript, Phaser 3</td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/4217f0db48dc81c9bac8e885e1206f04">Multi-Tool4Vision&nbsp;·&nbsp;RL</a></b><br/>2026</td><td>이미지 분류 모델 136개 학습 허브와, 외부 RL 라이브러리 없이 구현한 강화학습 알고리즘 60종<br/><b>Stack</b> PyTorch · <a href="https://github.com/MZUI3/Multi-Tool4Vision">Vision</a>&nbsp;·&nbsp;<a href="https://github.com/MZUI3/Multi-Tool4RL">RL</a></td></tr>
 </table>
 
 [프로젝트 전체 보기 →](https://mzui3.notion.site/Projects-3727f0db48dc807eae9cea3edd34f881)
@@ -88,10 +102,11 @@
 
 <table>
   <tr><th width="200">분야</th><th width="800">기술</th></tr>
-  <tr><td><b>AI&nbsp;·&nbsp;ML</b></td><td>PyTorch, TensorFlow, Hugging Face, scikit-learn, Knowledge Distillation</td></tr>
-  <tr><td><b>LLM&nbsp;·&nbsp;Agent</b></td><td>LangGraph, LangChain, OpenAI API</td></tr>
+  <tr><td><b>AI&nbsp;·&nbsp;ML</b></td><td>PyTorch, TensorFlow, Hugging Face, scikit-learn, ONNX Runtime, Pruning, Quantization, Knowledge Distillation</td></tr>
+  <tr><td><b>LLM&nbsp;·&nbsp;Agent</b></td><td>LangGraph, LangChain, OpenAI API, RAG, Chroma</td></tr>
+  <tr><td><b>Robotics&nbsp;·&nbsp;RL</b></td><td>MuJoCo, Gymnasium, Stable-Baselines3</td></tr>
   <tr><td><b>Embedded&nbsp;·&nbsp;HW</b></td><td>STM32 (C), Jetson Nano, Raspberry Pi, FPGA (Vivado)</td></tr>
-  <tr><td><b>Backend&nbsp;·&nbsp;Frontend</b></td><td>FastAPI, Spring Boot, React</td></tr>
+  <tr><td><b>Backend&nbsp;·&nbsp;Frontend</b></td><td>FastAPI, Spring Boot, React, Vue 3</td></tr>
   <tr><td><b>Infra</b></td><td>Docker, Kubernetes (EKS), AWS</td></tr>
   <tr><td><b>Language</b></td><td>Python, Java, C, Verilog</td></tr>
 </table>
