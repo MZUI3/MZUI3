@@ -29,10 +29,10 @@
 
 <table>
   <tr><th width="150">기간</th><th width="170">과제</th><th width="680">내용</th></tr>
+  <tr><td align="center">2023.08</td><td><b>슈퍼노바</b><br/>로봇 제조사 · 현장실습</td><td>HUENIT 4축 Manipulator 조립, 카메라·NPU AI 모듈의 인식 결과에 따른 로봇 동작 설계·검증<br/><b>연계</b> 같은 Manipulator로 캐리커처 로봇 제작 (최우수상)</td></tr>
   <tr><td align="center">2023.07&nbsp;–&nbsp;2025.02</td><td><b>K-CHIPS</b><br/>정부과제</td><td>반도체 테스트 AI 데이터셋 수집·정제·라벨링, 데이터 플랫폼 구축 지원<br/>ISCAS'85 회로 11종 × 불량 분포 10종, 웨이퍼 110장(회로 110K개) 규모 테스트 데이터셋 구축 및 공개<br/><b>성과</b> 데이터 품질 관리 체계 구축 · 공동 1저자 논문 · 특허 등록 (10-2937390)</td></tr>
+  <tr><td align="center">2022.12&nbsp;–&nbsp;2024.11</td><td><b>SK&nbsp;Hynix</b><br/>산학과제 · 참여연구원</td><td>웨이퍼 테스트 데이터 기반 불량 패턴 Anomaly Detection 과제<br/><b>담당</b> 대규모 IC 테스트 데이터 분석, 불량 패턴·이상치 탐지(Anomaly Detection) 모델 개발 참여<br/><b>비고</b> 데이터·결과는 보안 협약으로 비공개</td></tr>
   <tr><td align="center">2022.07&nbsp;–&nbsp;2025.02</td><td><b>AI&nbsp;Research&nbsp;Lab</b><br/>학부연구생 → 연구원</td><td>경량 ViT 구조 개선 및 모델 압축, 재현 가능한 실험 파이프라인 구축<br/><b>성과</b> 파라미터 5% 증가로 정확도 최대 0.68%p 향상 (ExMobileViT) · 논문 2편</td></tr>
-  <tr><td align="center">2022.12&nbsp;–&nbsp;2024.11</td><td><b>SK&nbsp;Hynix</b><br/>산학과제 · 참여연구원</td><td>웨이퍼 테스트 데이터 기반 불량 패턴·이상치 탐지 과제 참여</td></tr>
-  <tr><td align="center">2023.08</td><td><b>슈퍼노바</b><br/>로봇 제조사 · 현장실습</td><td>HUENIT 4축 Manipulator 조립, 카메라·NPU AI 모듈로 인식 결과에 따른 로봇 동작 설계·검증<br/><b>연계</b> 같은 Manipulator로 캐리커처 로봇 제작 (최우수상)</td></tr>
 </table>
 
 ---
@@ -41,10 +41,10 @@
 
 <table>
   <tr><th width="200">프로젝트</th><th width="800">내용</th></tr>
-  <tr><td><b><a href="https://mzui3.notion.site/TinyML-Design-Contest-ICCAD-2023-1c7ccb42fc1c452281959d52db412a87">TinyML&nbsp;Design&nbsp;Contest</a></b><br/>2023</td><td>STM32(RAM 16KB · Flash 64KB)에서 심실 부정맥을 탐지하는 1D CNN · 세계 Top 11<br/><b>담당</b> 1D CNN 설계, Knowledge Distillation, C 포팅<br/><b>Stack</b> PyTorch, C, STM32 · <a href="https://github.com/MZUI3/iccad2023-tinyml-ecg-anomaly-detection">Code</a></td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/TinyML-Design-Contest-ICCAD-2023-1c7ccb42fc1c452281959d52db412a87">TinyML&nbsp;Design&nbsp;Contest</a></b><br/>2023</td><td>STM32 (RAM 16KB · Flash 64KB)에서 심실 부정맥을 탐지하는 1D CNN · 세계 Top 11<br/><b>담당</b> 1D CNN 설계, Knowledge Distillation, C 포팅<br/><b>Stack</b> PyTorch, C, STM32 · <a href="https://github.com/MZUI3/iccad2023-tinyml-ecg-anomaly-detection">Code</a></td></tr>
   <tr><td><b><a href="https://mzui3.notion.site/AI-37c7f0db48dc803d8221c436ff755bbd">캐리커처&nbsp;로봇</a></b><br/>2023</td><td>사진 한 장으로 Manipulator가 캐리커처를 그리는 End-to-End 시스템<br/><b>담당</b> Face Detection, StyleGAN, Edge Detection<br/><b>Stack</b> GAN, Segmentation, G-Code</td></tr>
   <tr><td><b><a href="https://mzui3.notion.site/Multi-Agent-Review-Analysis-System-b6b4d72aa03549f082811effa7d6427b">Multi-Agent&nbsp;리뷰&nbsp;분석</a></b><br/>2026</td><td>상품 리뷰를 속성별로 분석(ABSA)하는 Supervisor 패턴 Multi-Agent 시스템 (9인 팀)<br/><b>담당</b> Agent State·Supervisor 라우팅 설계, Multi-Agent 구조 구현<br/><b>Stack</b> LangGraph, OpenAI API, LangSmith, Streamlit</td></tr>
-  <tr><td><b><a href="https://mzui3.notion.site/37d7f0db48dc80079c09fef33e9992c0">도서&nbsp;관리&nbsp;시스템</a></b><br/>2026</td><td>AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (7인 팀)<br/><b>담당</b> Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/><b>Stack</b> Spring Boot, React, Docker, EKS</td></tr>
+  <tr><td><b><a href="https://mzui3.notion.site/37d7f0db48dc80079c09fef33e9992c0">도서&nbsp;관리&nbsp;시스템</a></b><br/>2026</td><td>AWS EKS 기반으로 배포한 Spring Boot 웹 서비스 (팀 프로젝트)<br/><b>담당</b> Spring Security·JWT 연동, CORS, 전역 예외 처리 · EKS CI/CD·HPA 환경 개발 참여<br/><b>Stack</b> Spring Boot, React, Docker, EKS</td></tr>
 </table>
 
 ## More Projects
@@ -73,6 +73,8 @@
   <tr><td align="center">2023</td><td>ResidualViT: Better general-purpose Vision Transformer combined with CNN<br/>CKAIA 2023 (한국인공지능학회 하계학술대회) Poster · 공동 1저자</td><td align="center"><a href="https://mzui3.notion.site/ResidualViT-Better-general-purpose-Vision-Transformer-combined-with-CNN-3997f0db48dc80e6bb52ce1269641a7a">Notion</a></td></tr>
 </table>
 
+※ 논문 코드는 연구용 GitHub 계정(BMUZI3)에 있습니다.
+
 [논문 상세 보기 →](https://mzui3.notion.site/Paper-3817f0db48dc807986e7defe64f95607)
 
 ---
@@ -92,8 +94,8 @@
 <table>
   <tr><th width="90">연도</th><th width="120">결과</th><th width="790">대회</th></tr>
   <tr><td align="center">2023</td><td align="center"><b>Top&nbsp;11</b></td><td>TinyML Design Contest (ACM/IEEE ICCAD 국제 대회)<br/>STM32 MCU용 심실 부정맥 탐지 모델 · F-beta 0.947</td></tr>
-  <tr><td align="center">2023</td><td align="center"><b>최우수상</b></td><td>2023 산업체 연계 캡스톤디자인 ECHO+ Project 경진대회 · 슈퍼노바(휴닛) 최우수상<br/>생성형 AI 기반 캐리커처 로봇</td></tr>
-  <tr><td align="center">2023</td><td align="center"><b>8위</b></td><td><a href="https://mzui3.notion.site/GPT-2023-b485a842e8cf4d6f82601a8a44924b3c">노트북으로 GPT 맛보기 대회</a> · 한국어 문서 생성 요약 부문 (마인즈앤컴퍼니 · 4인 팀)<br/>KoGPT LoRA·T5 등 요약 모델을 비교해 T5로 제출 · 요약 성능 점수 5위</td></tr>
+  <tr><td align="center">2023</td><td align="center"><b>최우수상</b></td><td>다이나믹 공학 페스티벌<br/>생성형 AI 기반 캐리커처 로봇</td></tr>
+  <tr><td align="center">2023</td><td align="center"><b>종합&nbsp;8위</b></td><td><a href="https://mzui3.notion.site/GPT-2023-b485a842e8cf4d6f82601a8a44924b3c">노트북으로 GPT 맛보기 대회</a> · 한국어 문서 생성 요약 부문 (마인즈앤컴퍼니 · 4인 팀)<br/>KoGPT LoRA·T5 등 요약 모델을 비교해 T5로 제출 · 종합 8위 (요약 성능 점수만으로는 5위)</td></tr>
 </table>
 
 ---
